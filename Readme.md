@@ -8,7 +8,7 @@
 ⚡ Fun Fact about me : I love read books and gym  
 💬 Ask me if you want knowledge about .NET Core, ASP.NET, C#, SQL Server,....  
 ### Contract for me   
-Email: hoangchuong07102003@gmail.com  
+[Email](hoangchuong07102003@gmail.com)  
 [Facebook](https://facebook.com/myo.angel.7/)
 # Some technology i can do
 <div>
