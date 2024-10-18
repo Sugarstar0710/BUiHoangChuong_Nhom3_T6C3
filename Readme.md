@@ -5,10 +5,11 @@
 🌱 I also looking for some new technology like Docker, Kubernetes, and microservices.  
 👯 It's my pleasure if i could cooperate with project relate to web application development  
 ⚡ Fun Fact about me : I love read books and gym  
-💬 Ask me if you want knowledge about .NET Core, ASP.NET, C#, SQL Server,  
+💬 Ask me if you want knowledge about .NET Core, ASP.NET, C#, SQL Server,....  
 ### Contract for me   
 Email: hoangchuong07102003@gmail.com  
 Facebook :https://ffacebook.com/myo.angel.7/
+# Some technology i can do
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
