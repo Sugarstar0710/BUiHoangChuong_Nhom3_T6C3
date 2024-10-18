@@ -8,8 +8,8 @@
 ⚡ Fun Fact about me : I love read books and gym  
 💬 Ask me if you want knowledge about .NET Core, ASP.NET, C#, SQL Server,....  
 ### Contract for me   
-[Email](hoangchuong07102003@gmail.com)  
-[Facebook](https://facebook.com/myo.angel.7/)
+My [Email](hoangchuong07102003@gmail.com)  
+My [Facebook](https://facebook.com/myo.angel.7/)
 # Some technology i can do
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
