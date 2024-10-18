@@ -1,4 +1,4 @@
-# 👋 Hi my name is Bùi Hoàng Chương
+# 👋 Hi my name is Bùi Hoàng Chương/br
 ## I'm a back-end developer for Group 3 Project : Hotel Management
 ### About me
 🔭 Now im working with .netcore and applicaiton sevive development Resful
