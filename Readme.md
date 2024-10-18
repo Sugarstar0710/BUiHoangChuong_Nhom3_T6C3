@@ -8,4 +8,4 @@
 #💬 Ask me if you want knowledge about .NET Core, ASP.NET, C#, SQL Server,  
 ### Contract for me   
 Email: hoangchuong07102003@gmail.com  
-Facebook :[LinkedIn](https://ffacebook.com/myo.angel.7/)
+Facebook :https://ffacebook.com/myo.angel.7/
